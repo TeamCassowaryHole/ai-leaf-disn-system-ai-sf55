@@ -1,4 +1,4 @@
-# 
+# Gratuito AI leaf disease detection system predefinições. Com análise preditiva e tomada de decisão automatizada — otimizado para máximo desempenho.
 
 
 
